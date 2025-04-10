@@ -1,0 +1,5 @@
+#  ! pip install tensorflow keras opencv-python nltk transformers      
+
+#  jupyter nbconvert --to script AI-Based_Medical_Diagnosis_System.ipynb
+
+# streamlit run AI-Based_Medical_Diagnosis_System.py 
